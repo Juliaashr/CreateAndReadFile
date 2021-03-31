@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\CreateAndReadFile\CreateAndReadFile\bin\Debug\CreateAndReadFile.exe.config
+C:\Users\admin\source\repos\CreateAndReadFile\CreateAndReadFile\bin\Debug\CreateAndReadFile.exe
+C:\Users\admin\source\repos\CreateAndReadFile\CreateAndReadFile\bin\Debug\CreateAndReadFile.pdb
+C:\Users\admin\source\repos\CreateAndReadFile\CreateAndReadFile\obj\Debug\CreateAndReadFile.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CreateAndReadFile\CreateAndReadFile\obj\Debug\CreateAndReadFile.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CreateAndReadFile\CreateAndReadFile\obj\Debug\CreateAndReadFile.exe
+C:\Users\admin\source\repos\CreateAndReadFile\CreateAndReadFile\obj\Debug\CreateAndReadFile.pdb
